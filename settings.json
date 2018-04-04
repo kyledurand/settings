@@ -7,5 +7,9 @@
   "files.insertFinalNewline": true,
   "workbench.colorTheme": "Dracula",
   "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "prettier.singleQuote": true,
+  "explorer.confirmDragAndDrop": false,
+  "prettier.bracketSpacing": false,
+  "editor.tabSize": 2
 }
