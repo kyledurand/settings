@@ -18,7 +18,7 @@
         "when": "editorTextFocus"
     },
     {
-    "key": "alt+cmd+left",
-    "command": "workbench.files.action.collapseExplorerFolders"
+        "key": "alt+cmd+left",
+        "command": "workbench.files.action.collapseExplorerFolders"
     }
 ]
