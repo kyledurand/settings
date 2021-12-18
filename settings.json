@@ -1,15 +1,13 @@
 {
-  "sublimeTextKeymap.promptV3Features": true,
-  "editor.multiCursorModifier": "ctrlCmd",
-  "editor.snippetSuggestions": "top",
-  "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "files.insertFinalNewline": true,
   "workbench.colorTheme": "Dracula",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "prettier.singleQuote": true,
-  "explorer.confirmDragAndDrop": false,
-  "prettier.bracketSpacing": false,
-  "editor.tabSize": 2
+  "window.zoomLevel": 1,
+  "editor.fontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "terminal.external.osxExec": "iterm.app",
+  "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

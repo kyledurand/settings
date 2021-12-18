@@ -1,24 +1,49 @@
-// Place your key bindings in this file to overwrite the defaults
+// Place your key bindings in this file to override the defaultsauto[]
 [
     {
-        "key": "shift+cmd+1",
-        "command": "workbench.action.terminal.focusAtIndex1"
+      "key": "cmd+t",
+      "command": "workbench.action.quickOpen"
     },
     {
-        "key": "shift+cmd+2",
-        "command": "workbench.action.terminal.focusAtIndex2"
+      "key": "shift+cmd+1",
+      "command": "workbench.action.terminal.focusAtIndex1"
     },
     {
-        "key": "shift+cmd+3",
-        "command": "workbench.action.toggleMaximizedPanel"
+      "key": "shift+cmd+2",
+      "command": "workbench.action.terminal.focusAtIndex2"
     },
     {
-        "key": "cmd+r",
-        "command": "cursorRight",
-        "when": "editorTextFocus"
+      "key": "shift+cmd+3",
+      "command": "workbench.action.toggleMaximizedPanel"
     },
     {
-        "key": "alt+cmd+left",
-        "command": "workbench.files.action.collapseExplorerFolders"
+      "key": "cmd+r",
+      "command": "cursorRight",
+      "when": "editorTextFocus"
+    },
+    {
+      "key": "alt+cmd+left",
+      "command": "workbench.files.action.collapseExplorerFolders"
+    },
+    {
+      "key": "cmd+1",
+      "command": "workbench.action.openEditorAtIndex1"
+    },
+    {
+      "key": "cmd+2",
+      "command": "workbench.action.openEditorAtIndex2"
+    },
+    {
+      "key": "cmd+3",
+      "command": "workbench.action.openEditorAtIndex3"
+    },
+    {
+      "key": "cmd+4",
+      "command": "workbench.action.openEditorAtIndex3"
+    },
+    {
+      "key": "cmd+5",
+      "command": "workbench.action.openEditorAtIndex3"
     }
-]
+  ]
+  
