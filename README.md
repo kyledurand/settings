@@ -1,6 +1,6 @@
 # Settings
 
-Settings for vs code
+Quick settings for a fresh work environment
 
 ## Things you'll need
 
@@ -16,7 +16,7 @@ vs code
 - Apply keyboard shortcuts
 - Apply theme
 
-`brew install npm` or `brew install yarn`
+`brew install npm` or `brew install yarn` or `brew install pnpm`
 `brew install nvm`
 `brew install node`
 `ohmyzsh` [Install](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#basic-installation)
