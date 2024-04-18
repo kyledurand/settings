@@ -20,3 +20,4 @@ vs code
 `brew install nvm`
 `brew install node`
 `ohmyzsh` [Install](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#basic-installation)
+`brew install zsh-autosuggestions`
