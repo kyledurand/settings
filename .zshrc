@@ -112,5 +112,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias nrd="npm run dev"
+alias nrb="npm run build"
+alias prd="pnpm run dev"
+alias prb="pnpm run build"
 alias dab="git branch | xargs git branch -D"
 alias gfp="git push origin +$(git symbolic-ref -q --short HEAD)"
+
+# bindkey '\e' autosuggest-accept
+bindkey '\t' end-of-line
