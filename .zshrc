@@ -102,8 +102,13 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias nrd="npm run dev"
 alias nrb="npm run build"
+
+alias pr="pnpm run"
 alias prd="pnpm run dev"
 alias prb="pnpm run build"
+
+alias st="shopify theme"
+
 alias dab="git branch | xargs git branch -D"
 alias gfp="git push origin +$(git symbolic-ref -q --short HEAD)"
 
